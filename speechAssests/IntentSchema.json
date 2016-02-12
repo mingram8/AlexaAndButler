@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "SendCommandIntent",
+      "slots": [
+        {
+          "name": "commands",
+          "type": "COMMANDS"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
